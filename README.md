@@ -22,5 +22,5 @@ My main tech skills include Python and C, with VS Code and Vivado being my favor
 
 **Fun Facts:**
 1. My favorite anime is JJK.
-2. I love to playing pickleball and going to the gym.
+2. I love playing pickleball and going to the gym.
 3. I am a proud AMC A-Lister.
