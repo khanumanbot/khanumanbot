@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! My name is Krishna, and I'm currently a student at Purdue University majoring in Computer Engineering.
+
+I am currently contributing to a 3D hologram project and a space arm system.
+
+My main tech skills include Python and C, with VS Code and Vivado being my favorite tools.
+
+**Fun Facts:**
+1. My favorite anime is JJK.
+2. I love to playing pickleball and going to the gym.
+3. I am a proud AMC A-Lister.
